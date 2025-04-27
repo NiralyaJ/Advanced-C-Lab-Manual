@@ -49,7 +49,6 @@ Output:
 ![Screenshot 2025-04-27 082421](https://github.com/user-attachments/assets/db5c10f2-3670-42ae-9908-6a7555d0efda)
 
 
-
 Result:
 Thus, the program is verified successfully. 
 
@@ -110,6 +109,11 @@ Result:
 Thus, the program is verified successfully
 
 
+
+
+
+
+
  
 EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
@@ -162,6 +166,12 @@ Output:
 Result:
 Thus, the program is verified successfully
  
+
+
+
+
+
+
 
 
 EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
@@ -220,6 +230,18 @@ Output:
 
 Result:
 Thus, the program is verified successfully
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -292,8 +314,12 @@ int main()
 }
 ```
 Output:
+
+
+
 ![Screenshot 2025-04-26 231917](https://github.com/user-attachments/assets/23bf8d4c-8215-4e62-a080-03906a888c8d)
 
 
 Result:
+
 Thus, the program is verified successfully
