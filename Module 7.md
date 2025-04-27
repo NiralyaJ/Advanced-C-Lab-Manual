@@ -154,9 +154,7 @@ printf("\n%s File Closed",name);
 
 Output:
 
-
-![Screenshot 2025-04-27 103242](https://github.com/user-attachments/assets/7c495986-3e63-4a09-bb11-d8dd71e5461b)
-
+![Screenshot 2025-04-27 104608](https://github.com/user-attachments/assets/2fd7664f-65b0-443c-9110-a36fd9f01322)
 
 
 Result:
